@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChildFragmentManagerTest</string>
+    <string name="hello_parent_world">Hello child!</string>
+    <string name="hello_child_fragment">Hello parent!</string>
+</resources>
